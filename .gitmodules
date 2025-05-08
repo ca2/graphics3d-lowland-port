@@ -28,21 +28,9 @@
 	path = tinyobjloader
 	url = ../../cpp-port/tiny-tinyobjloader
 	branch = main
-[submodule "vk_video"]
-	path = vk_video
-	url = ../../cpp-port/vk_video
-	branch = main
 [submodule "vkbootstrap"]
 	path = vkbootstrap
 	url = ../../cpp-port/vkbootstrap
-[submodule "vma"]
-	path = vma
-	url = ../../cpp-port/vma
-	branch = main
-[submodule "volk"]
-	path = volk
-	url = ../../cpp-port/volk
-	branch = main
 [submodule "vulkan"]
 	path = vulkan
 	url = ../../cpp-port/windows-vulkan-headers
