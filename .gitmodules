@@ -43,3 +43,7 @@
 	path = volk
 	url = ../../cpp-port/volk
 	branch = main
+[submodule "vulkan"]
+	path = vulkan
+	url = ../../cpp-port/windows-vulkan-headers
+	branch = main
