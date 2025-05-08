@@ -35,3 +35,7 @@
 	path = vulkan
 	url = ../../cpp-port/windows-vulkan-headers
 	branch = main
+[submodule "KTX"]
+	path = KTX
+	url = ../../cpp-port/KTX
+	branch = main
